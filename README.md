@@ -1,6 +1,6 @@
 # Controle de temperatura de um CSTR: PID vs. IA
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guilhermemachadogm26-sys/controle-pid/blob/main/Untitled0.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guilhermemachadogm26-sys/controle-pid/blob/main/cstr_pid_vs_ia.ipynb)
 
 Projeto de estudo que compara estratégias de controle de temperatura em um **reator CSTR não-isotérmico** (reação exotérmica irreversível A → B). É um sistema fortemente não-linear e com múltiplos estados estacionários, o que o torna um bom caso para confrontar o controle clássico com técnicas de IA.
 
@@ -13,7 +13,7 @@ Projeto de estudo que compara estratégias de controle de temperatura em um **re
 
 ## Estrutura do código
 
-Todos os módulos são gerados pelas células do notebook `Untitled0.ipynb`:
+Todos os módulos são gerados pelas células do notebook `cstr_pid_vs_ia.ipynb`:
 
 | Arquivo | Função |
 |---|---|
